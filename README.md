@@ -23,7 +23,7 @@ LabVIEW 2011
 
 ### Built Availability ###
 
-This IP is built and available for NI VeriStand 2010 and 2011 [here](https://decibel.ni.com/content/docs/DOC-15404) but will be taken down soon.
+No builds are provided.
 
 ### Quality, Limitations ###
 
